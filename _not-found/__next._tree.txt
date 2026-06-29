@@ -1,2 +1,2 @@
-:HL["/NOME_DO_REPOSITORIO/_next/static/chunks/1g-7xewa0ec_u.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"d2GuBwE4wllCMZheuX791"}
+:HL["/site-ccam-estatico/_next/static/chunks/1g-7xewa0ec_u.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LLKpTt-XNzT-ECEZpfyjL"}
